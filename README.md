@@ -22,7 +22,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/userlaws/Project-X.git
+git clone https://github.com/userlaws/Project-X-Personal-Cloud-Drive
 cd Project-X
 ```
 
